@@ -1,4 +1,5 @@
 *Recommendation System using Cosine Similarity*
+
 #Project Overview
 
 This project implements a content-based recommendation system that suggests items (such as movies or products) to users based on similarity between features. The system uses cosine similarity to measure how closely related items are and recommends the most relevant ones.
